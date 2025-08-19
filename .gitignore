@@ -4,3 +4,7 @@
 .terraform/providers/registry.terraform.io/hashicorp/helm/3.0.2/linux_amd64/LICENSE.txt
 .terraform/providers/registry.terraform.io/hashicorp/helm/3.0.2/linux_amd64/terraform-provider-helm_v3.0.2_x5
 .terraform.lock.hcl
+.terraform/providers/registry.terraform.io/hashicorp/kubernetes/2.38.0/linux_amd64/LICENSE.txt
+.terraform/providers/registry.terraform.io/hashicorp/kubernetes/2.38.0/linux_amd64/terraform-provider-kubernetes_v2.38.0_x5
+.terraform/providers/registry.terraform.io/hashicorp/tls/4.1.0/linux_amd64/LICENSE.txt
+.terraform/providers/registry.terraform.io/hashicorp/tls/4.1.0/linux_amd64/terraform-provider-tls_v4.1.0_x5
