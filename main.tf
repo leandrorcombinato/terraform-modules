@@ -9,3 +9,4 @@ module "eks" {
 # To update your kubeconfig, run the following command:
 # aws eks update-kubeconfig --name demoesk --region us-east-1 --name demoesk-cluster
 # k config use-context arn:aws:eks:us-east-1:123456789012:cluster/demoesk-cluster
+# k get -po -A
