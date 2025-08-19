@@ -1,0 +1,6 @@
+.terraform/modules/modules.json
+.terraform/providers/registry.terraform.io/hashicorp/aws/6.8.0/linux_amd64/LICENSE.txt
+.terraform/providers/registry.terraform.io/hashicorp/aws/6.8.0/linux_amd64/terraform-provider-aws_v6.8.0_x5
+.terraform/providers/registry.terraform.io/hashicorp/helm/3.0.2/linux_amd64/LICENSE.txt
+.terraform/providers/registry.terraform.io/hashicorp/helm/3.0.2/linux_amd64/terraform-provider-helm_v3.0.2_x5
+.terraform.lock.hcl
